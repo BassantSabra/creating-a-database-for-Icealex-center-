@@ -1,4 +1,10 @@
-# README: ICEALEX_Startup Project Database 
+# ICEALEX_Startup Project Database 
+
+
+## Project Overview
+
+Through my graduation project from the ICEAlex internship, I was working on creating a database for ICEAlex startup projects.
+
 
 ## Entities and Attributes
 
