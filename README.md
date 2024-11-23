@@ -26,6 +26,9 @@
        
 ![startup_ERD](https://github.com/user-attachments/assets/9f338e15-d59f-4c4d-a3df-b38c846aac57)
 
+
+![DATABASE-schema](https://github.com/user-attachments/assets/5ed87867-6eff-4290-b6b0-40d5008cf8e3)
+
 ### 2. **Funding**
    - **Attributes:**
      - `FundingID`: A unique identifier for each funding record.
