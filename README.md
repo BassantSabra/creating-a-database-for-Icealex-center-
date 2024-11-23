@@ -23,6 +23,8 @@
      - **Projects**: A startup can initiate or join multiple projects.
      - **Stakeholders**: A startup may have multiple stakeholders.
      - **External Partnerships**: A startup can have multiple external partnerships.
+       
+![startup_ERD](https://github.com/user-attachments/assets/9f338e15-d59f-4c4d-a3df-b38c846aac57)
 
 ### 2. **Funding**
    - **Attributes:**
